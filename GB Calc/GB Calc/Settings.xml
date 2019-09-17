@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Settings>
+	<Points>
+		<Current>0</Current>
+		<Max>0</Max>
+		<Yours>0</Yours>
+		<Theirs>0</Theirs>
+		<Loose>0</Loose>
+	</Points>
+	<Arc>
+		<Mode>1</Mode>
+		<Level>0</Level>
+	</Arc>
+	<Rewards>
+		<Points>0</Points>
+		<Prints>0</Prints>
+	</Rewards>
+</Settings>
